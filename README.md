@@ -1,6 +1,9 @@
+# Online Paint
 
-A paint application that helps u to draw and save the drawing u draw permanently 
-Some functionalities Includes: </br>
+A Web-based paint application that helps u to draw and save the drawing u draw permanently <br>
+
+Some functionalities Include: </br>
+
 > 1] changing Brush size </br>
 > 2] changing Brush color </br>
 > 3] Eraser </br>
